@@ -1,5 +1,6 @@
 # PrimeiroCommit
-Esse é o meu primeiro repositorio no Github, é um trabalho passado pela professora Gabriela Senna.
+Esse é o meu primeiro repositorio no Github, é um trabalho passado pela professora Gabriela Senna.🥇<br>
+E tem a finalidade de mostrar alguns codigos no GitHUb.
 <h2 align="center"> 🌠▶️Alguns comandos do Github◀️🌠</h2>
 
 - `Código 1`: Git Checkout: Usado em principio para mudar de uma Branch para outra
